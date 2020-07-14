@@ -1,0 +1,28 @@
+@font-face {
+  font-family: RobotoLight;
+  src: url("RobotoLight.ttf");
+}
+
+* {
+  padding: 0px;
+  margin: 0px;
+  font-family: RobotoLight;
+  outline: 0 !important;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-attachment: fixed;
+  background-color: #FFFFFF;
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow-x: hidden;
+}
+
+.SmallDevicesNavigationBarClass, .LargeDevicesNavigationBarClass, .SmallDevicesMenuClass {
+  display: none;
+}

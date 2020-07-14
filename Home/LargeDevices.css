@@ -1,0 +1,55 @@
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .LargeDevicesNavigationBarClass {
+    display: block;
+    position: absolute;
+    top: 0vw;
+    left: 0vw;
+    width: 100vw;
+    height: 4vw;
+    background-color: #F5F5F5;
+  }
+
+  .NewToCANDTPClass {
+    position: absolute;
+    top: 0vw;
+    left: 2vw;
+    height: 4vw;
+    color: #666666;
+    font-size: 0.9vw;
+    pointer-events: none;
+    border: none;
+    background-color: Transparent;
+  }
+
+  .StartHereButtonClass {
+    position: absolute;
+    top: 1vw;
+    left: 13vw;
+    height: 1.9vw;
+    width: 7vw;
+    background-color: #FA3C8B;
+    color: #FFFFFF;
+    font-size: 0.9vw;
+    border: none;
+  }
+
+  .StartHereButtonClass:hover {
+    opacity: 0.4;
+  }
+
+  .NavigationBarButtonClass {
+    position: relative;
+    top: 0vw;
+    left: 80vw;
+    height: 4vw;
+    width: 4.25vw;
+    font-size: 0.9vw;
+    border: none;
+    background-color: Transparent;
+    color: #666666;
+  }
+
+  .NavigationBarButtonClass:hover {
+    color: #FA3C8B;
+  }
+}

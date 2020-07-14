@@ -1,0 +1,57 @@
+@media (min-width: 1200px) {
+  .LargeDevicesNavigationBarClass {
+    display: block;
+    position: absolute;
+    top: 0vw;
+    left: 0vw;
+    width: 100vw;
+    height: 3vw;
+    background-color: #F5F5F5;
+  }
+
+  .NewToCANDTPClass {
+    position: absolute;
+    top: 0vw;
+    left: 8vw;
+    height: 3vw;
+    color: #666666;
+    font-size: 0.8vw;
+    pointer-events: none;
+    border: none;
+    background-color: Transparent;
+  }
+
+  .StartHereButtonClass {
+    position: absolute;
+    top: 0.6vw;
+    left: 17.5vw;
+    height: 1.75vw;
+    width: 6vw;
+    background-color: #FA3C8B;
+    color: #FFFFFF;
+    font-size: 0.8vw;
+    border: none;
+  }
+
+  .StartHereButtonClass:hover {
+    opacity: 0.4;
+  }
+
+  .NavigationBarButtonClass {
+    position: relative;
+    top: 0vw;
+    left: 75vw;
+    height: 3vw;
+    width: 3.5vw;
+    font-size: 0.8vw;
+    border: none;
+    background-color: Transparent;
+    color: #666666;
+  }
+
+  .NavigationBarButtonClass:hover {
+    color: #FA3C8B;
+  }
+}
+
+https: //www.browneyedbaker.com/
