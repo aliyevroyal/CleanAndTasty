@@ -7,22 +7,22 @@
     top: 0vw;
     left: 0vw;
     width: 100vw;
-    height: 7.5vw;
+    height: 11vw;
   }
 
   .MenuButtonImgClass {
     position: absolute;
-    top: 2.25vw;
+    top: 3vw;
     left: 3.5vw;
-    height: 3vw;
+    height: 5vw;
     cursor: pointer;
   }
 
   .MENUButtonClass {
     position: absolute;
     top: 0vw;
-    left: 9vw;
-    height: 7.5vw;
+    left: 12.5vw;
+    height: 11vw;
     color: #FFFFFF;
     background-color: Transparent;
     border: none;
@@ -42,8 +42,8 @@
     top: 0vh;
     left: 0vw;
     width: 100vw;
-    height: 8vw;
-    font-size: 2.5vw;
+    height: 11vw;
+    font-size: 3vw;
     border: none;
     background-color: #F94E96;
     color: #EEEDEE;
