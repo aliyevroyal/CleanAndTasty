@@ -55,4 +55,13 @@
   .SmallDevicesMenuButtonClass:hover {
     color: #1E1F21;
   }
+
+  .SocialMediaButtonClass {
+    position: relative;
+    top: 3vw;
+    left: 70vw;
+    height: 5vw;
+    cursor: pointer;
+    margin-left: 2.5vw;
+  }
 }

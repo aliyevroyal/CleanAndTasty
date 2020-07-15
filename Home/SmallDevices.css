@@ -42,10 +42,8 @@
     top: 0vh;
     left: 0vw;
     width: 100vw;
-
     height: 6vw;
     font-size: 1.75vw;
-
     border: none;
     background-color: #F94E96;
     color: #EEEDEE;
@@ -56,5 +54,14 @@
 
   .SmallDevicesMenuButtonClass:hover {
     color: #1E1F21;
+  }
+
+  .SocialMediaButtonClass {
+    position: relative;
+    top: 2.25vw;
+    left: 75vw;
+    height: 3vw;
+    cursor: pointer;
+    margin-left: 2.5vw;
   }
 }
