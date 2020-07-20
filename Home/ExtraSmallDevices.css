@@ -2,7 +2,6 @@
   .SmallDevicesNavigationBarClass {
     display: block;
     position: relative;
-    z-index: 0;
     background-color: #F94E96;
     top: 0vw;
     left: 0vw;
@@ -63,5 +62,42 @@
     height: 5vw;
     cursor: pointer;
     margin-left: 2.5vw;
+  }
+
+  .page1DivClass, .page2DivClass, .page3DivClass {
+    display: block;
+    position: relative;
+    top: 0vw;
+    left: 0vw;
+    width: 100vw;
+    height: 100vw;
+  }
+
+  .SmallDevicesFooterDivClass {
+    display: block;
+    position: relative;
+    top: 0vw;
+    left: 0vw;
+    width: 100vw;
+    height: 87.5vw;
+  }
+
+  .SmallDevicesStripedDivClass {
+    position: relative;
+    top: 0vw;
+    left: 0vw;
+    width: 100vw;
+    height: 17.5vw;
+    background-image: linear-gradient(45deg, #dbdbdb 25%, #f4f4f4 25%, #f4f4f4 50%, #dbdbdb 50%, #dbdbdb 75%, #f4f4f4 75%, #f4f4f4 100%);
+    background-size: 5.66px 5.66px;
+  }
+
+  .SmallDevicesLegacyDivClass{
+    position: relative;
+    top: 0vw;
+    left: 0vw;
+    width: 100vw;
+    height: 70vw;
+    background-color: #f4f4f4;
   }
 }

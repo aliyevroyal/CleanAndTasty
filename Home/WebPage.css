@@ -26,3 +26,11 @@ body {
 .SmallDevicesNavigationBarClass, .LargeDevicesNavigationBarClass, .SmallDevicesMenuClass {
   display: none;
 }
+
+.page1DivClass, .page2DivClass, .page3DivClass {
+  display: none;
+}
+
+.SmallDevicesFooterDivClass, .LargeDevicesFooterDivClass {
+  display: none;
+}
