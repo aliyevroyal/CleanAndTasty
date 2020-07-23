@@ -57,7 +57,7 @@
 
   .SocialMediaButtonClass {
     position: relative;
-    top: 3vw;
+    top: 2vw;
     left: 70vw;
     height: 5vw;
     cursor: pointer;
@@ -92,7 +92,7 @@
     background-size: 5.66px 5.66px;
   }
 
-  .SmallDevicesLegacyDivClass{
+  .SmallDevicesLegacyDivClass {
     position: relative;
     top: 0vw;
     left: 0vw;
